@@ -1,6 +1,6 @@
 Politique de Confidentialité - Aides Travaux AI - Rénovation
 
-Date d’effet : 14 avril 2025
+Date d’effet : 1er mai 2025
 
 Introduction
 
@@ -56,5 +56,4 @@ Nous pouvons mettre à jour cette politique de confidentialité. Toute modificat
 
 Nous contacter
 
-Pour toute question concernant cette politique ou vos données personnelles, contactez-nous à : contact@aidestravauxai.com
-
+Pour toute question concernant cette politique ou vos données personnelles, contactez-nous à : joprowork@gmail.com
